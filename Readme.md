@@ -58,3 +58,15 @@ Upon execution, the script will:
     Enhancing Bias Audits: The current bias audit is a replaceable. You can integrate more sophisticated fairness metrics and tests based on your project's needs.
     Integrating Additional Logging: Expand the audit_logs functionality to include more detailed logs, such as secure logging or integration with a blockchain for audit trails.    
 
+## License & Citation
+
+    This project is open-source under the MIT License. If you use this framework in your research, please cite:
+
+@article{Veritas2024,
+  author = {Gerald Enrique Nelson Mc Kenzie},
+  title = {VERITAS: Verifiable Evaluation and Reporting In Transparent AI Systems },
+  journal = {Zenodo},
+  year = {2024},
+  doi = {10.5281/zenodo.14811299},
+  url = {https://github.com/lordxmen2k/Veritas}
+}
